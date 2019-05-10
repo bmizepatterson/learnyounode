@@ -1,0 +1,22 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "From https://github.com/workshopper/learnyounode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmizepatterson/learnyounode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmizepatterson/learnyounode/issues"
+  },
+  "homepage": "https://github.com/bmizepatterson/learnyounode#readme",
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  }
+}
